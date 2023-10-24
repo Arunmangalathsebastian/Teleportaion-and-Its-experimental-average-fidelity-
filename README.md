@@ -1,2 +1,2 @@
-# Teleportaion-and-Its-experimental-average-fidelity-
-python code for average fidelity of teleportation on IBM quantum computer 
+# Quantum teleportaion-and-experimental-average-fidelity-
+python code for average fidelity of teleportation using Qiakit IBM quantum computer 
